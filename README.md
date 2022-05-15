@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on App Academy full time program
-- 🌱 I’m currently learning Python
+- 😄 Pronouns: she/her/hers
+- 🌱 I’m currently learning fullstack software engineering
 - 📫 How to reach me: maicasantos90@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love nature and trying new things
 
 # Languages and tools
