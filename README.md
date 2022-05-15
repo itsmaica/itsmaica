@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: maicasantos90@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love nature and trying new resturants 
+- ⚡ Fun fact: I love nature and trying new things
