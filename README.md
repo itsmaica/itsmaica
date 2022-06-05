@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning fullstack software engineering
 - 🔭 I’m currently working on [Pixtagram](https://github.com/BriRob/Pixtagram)
 - 📫 How to reach me: maicasantos90@gmail.com
-- ⚡ Fun fact: I love nature and trying new things
+
 
 # Languages and tools
 
