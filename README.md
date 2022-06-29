@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Maica Santos
 
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
+
 <!--
 **itsmaica/itsmaica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
        
