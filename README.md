@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: she/her/hers
-- 🌱 I’m currently learning fullstack software engineering
+- 🌱 I’m currently learning TypeScript
 - 🔭 I’m currently working on [Remotebnb](https://github.com/itsmaica/Remotebnb)
 - 📫 How to reach me: maicasantos90@gmail.com
 <!-- - ([Pixtagram](https://github.com/BriRob/Pixtagram) -->
